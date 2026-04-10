@@ -1,0 +1,1 @@
+xxd <decompress_fie> --> to test compressed result
